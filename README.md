@@ -1,5 +1,7 @@
 # MaiImage26FoundryDemo
 
+Blog Post: [MAI Image 2.6 Lands in Foundry for C# Developers](https://taswar.zeytinsoft.com/mai-image-2-6-lands-in-foundry-for-c-developers/)
+
 Console sample demonstrating the **MAI-Image-2.6** and **MAI-Image-2.6-Flash** models in
 Microsoft Foundry: text-to-image generation, batch catalog generation, multi-reference
 image editing, personalized image generation, and image cleanup/editing.
