@@ -7,10 +7,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
 
-- 📖 Full walkthrough: [MAI Image 2.6 Lands in Foundry for C# Developers](https://taswar.zeytinsoft.com/mai-image-2-6-lands-in-foundry-for-c-developers/)
+- 📖 Full walkthrough: [MAI Image 2.6 Lands in Foundry for C# Developers](https://taswar.zeytinsoft.com/mai-image-2-6-lands-in-foundry-for-c-developers/?utm_source=github&utm_medium=readme&utm_campaign=MAI-Image-26-Foundry-Demo&utm_content=walkthrough)
 - ⭐ If this sample helps you, star the repo so other .NET developers can find it.
 - 🔁 Related: [MAI-Image-2.5-Pro C# Sample](https://github.com/taswar/MAI-Image-2.5-Pro-Sample) and [GPT Image 2.5 Flare and Sunburst Demo](https://github.com/taswar/GptImage2.5-flare-sunburst-demo)
-- For more C# samples using other AI models, see [AI models for C# developers](https://taswar.zeytinsoft.com/foundry-ai-models-csharp/)
+- For more C# samples using other AI models, see [AI models for C# developers](https://taswar.zeytinsoft.com/foundry-ai-models-csharp/?utm_source=github&utm_medium=readme&utm_campaign=MAI-Image-26-Foundry-Demo&utm_content=ai-models-hub)
 - For my free ebook on prompt engineering, see [Prompt Engineering for .NET Developers](https://github.com/taswar/PromptEngineeringForDotNetDevelopers)
 
 Console sample demonstrating the **MAI-Image-2.6** and **MAI-Image-2.6-Flash** models in
