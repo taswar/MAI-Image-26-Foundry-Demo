@@ -12,7 +12,7 @@ var config = new ConfigurationBuilder()
 
 var endpoint = config["AZURE_AI_FOUNDRY_ENDPOINT"]
     ?? throw new InvalidOperationException(
-        "AZURE_AI_FOUNDRY_ENDPOINT is not set. Run: dotnet user-secrets set \"AZURE_AI_FOUNDRY_ENDPOINT\" \"&lt;your-endpoint&gt;\"");
+        "AZURE_AI_FOUNDRY_ENDPOINT is not set. Run: dotnet user-secrets set \"AZURE_AI_FOUNDRY_ENDPOINT\" \"<your-endpoint>\"");
 
 var credential = new DefaultAzureCredential();
 AccessToken token = await credential.GetTokenAsync(
